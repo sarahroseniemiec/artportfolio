@@ -1,0 +1,17 @@
+@font-face {
+  font-family: CircularStd-Book; src: url('/circular_std_book/CircularStd-Book.otf');
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  font-family: CircularStd-Book;
+  font-weight: lighter;
+}
+
+h1 {
+  font-weight: lighter;
+}
